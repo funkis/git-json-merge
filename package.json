@@ -23,6 +23,7 @@
   },
   "dependencies": {
     "detect-indent": "^5.0.0",
+    "lodash": "^4.17.11",
     "xdiff": "git+ssh://git@github.com/funkis/xdiff.git"
   },
   "devDependencies": {
